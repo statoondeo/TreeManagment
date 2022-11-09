@@ -1,0 +1,15 @@
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\bin\Debug\net6.0\TreeManagment.exe
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\bin\Debug\net6.0\TreeManagment.deps.json
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\bin\Debug\net6.0\TreeManagment.runtimeconfig.json
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\bin\Debug\net6.0\TreeManagment.dll
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\bin\Debug\net6.0\TreeManagment.pdb
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.AssemblyInfo.cs
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.dll
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\refint\TreeManagment.dll
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.pdb
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\TreeManagment.genruntimeconfig.cache
+C:\Users\rapha\source\repos\TreeManagment\TreeManagment\obj\Debug\net6.0\ref\TreeManagment.dll
