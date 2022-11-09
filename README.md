@@ -1,10 +1,5 @@
-<div id="question">
 <img class="main_image" src="https://questionsacm.isograd.com/codecontest/fr/6y3a6uJyWaMY7etA5e3u9.png" alt="Test">
-<div class="form-group inline  " style="padding:15px 0 0 15px;margin 0">
-<div class="valid-feedback"><i class="fal fa-check-circle icon-right hide"></i></div>
-<div class="invalid-feedback"><i class="fal fa-times-circle icon-wrong hide"></i></div>
-</div>
-<div class="question_text lan_1" style="padding-top:0;"># Optimisation de la distribution hydraulique<br />
+# Optimisation de la distribution hydraulique
 <br />
 Le réseau d'eau de votre ville nécessite des réparations, mais étant donné les ressources limitées à votre disposition, il est important d'identifier la partie du réseau qui fuit le plus afin de la traiter le plus rapidement.<br />
 <br />
@@ -65,4 +60,5 @@ La canalisation 0 à 1 : (5+10+12)x1 = 27<br />
 <br />
 En effet, la canalisation de 0 à 1 sert à acheminer depuis la source les quantités d'eau pour les sommets 1, 3 et 4.<br />
 <br />
-![](https://questions.s3.eu-west-1.amazonaws.com/codecontest/assets/CTSTSFR0314-example.jpg)</div>
+<img class="main_image" src="https://questions.s3.eu-west-1.amazonaws.com/codecontest/assets/CTSTSFR0314-example.jpg" alt="Test">
+
